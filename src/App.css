@@ -12,8 +12,9 @@
   margin-bottom: 0;
   font-weight: 100;
   display: inline-block;
-  font-size: 5rem;
-  width: 50%;
+  font-size: 4rem;
+  max-width: 50%;
   font-family: Revue;
   text-shadow: 4px 3px #000000;
+  margin: 0 auto;
 }
